@@ -73,7 +73,7 @@
 	background-color:#BFBCBC; 
 	width: 50%;
 	border-radius: 100%;
-	padding: 30px;
+	padding:60px 30px;
 	text-align: center;
 	margin-left: 25%;
 }
@@ -108,10 +108,11 @@
 }
 .circle{
 	border-radius: 100%;
-	padding: 20px;
+	padding: 30px 20px;
 	width: 30%;
     background-color:#BFBCBC; 
     float: left;
+    text-align: center;
 }
 .c_p{
 	float: left;
