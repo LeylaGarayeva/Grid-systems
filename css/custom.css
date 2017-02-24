@@ -1,0 +1,147 @@
+.line{
+	width: 100%;
+	height: 5px;
+	background-color: #AF3030;
+}
+.line2{
+	width: 100%;
+	height: 5px;
+	background-color: black;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+.margin{
+	margin-right: 8%;
+	margin-left: 8%;
+}
+.header1{
+	justify-content: space-around;
+	float: left;
+}
+.clear{
+	clear: both;
+}
+.logo{
+	font-size: 2em;
+	font-style: italic;
+}
+.logo span{
+	color:#B95050;
+
+}
+.icon{
+	width: 25px;
+	background-color: #BFBCBC;
+	border:1px solid silver;
+	border-radius: 100%;
+	float: left;
+	margin-left: 3%;
+}
+.icon2{
+	width: 25px;
+	float: left;
+	margin-left: 3%;
+}
+.icon i{
+	padding: 5px 7px;
+	color:white;
+}
+.menu ul li{
+	display: inline;
+	margin-left: 3%;
+	padding: 5px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.menu2 ul li{
+	display: inline;
+	margin-left: 3%;
+	padding: 5px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+.menu ul li:hover{
+	color:#A19C9C;
+}
+.menu2 ul li:hover{
+	color:#A19C9C;
+}
+.rounds{
+	text-align: center;
+}
+.round{
+	background-color:#BFBCBC; 
+	width: 50%;
+	border-radius: 100%;
+	padding: 30px;
+	text-align: center;
+	margin-left: 25%;
+}
+.round i{
+	font-size: 55px;
+}
+.text{
+	margin-left: 5%;
+	margin-right: 5%;
+	border-top:1px solid silver;
+	border-bottom:1px solid silver;
+	margin-top: 3%;
+	margin-bottom: 3%;
+	/*margin-top: 3%;*/
+}
+.text p:first-child{
+	padding: 10px 20px 0px 20px;
+	text-align: center;
+	color:#B7B1B1;
+	font-weight: bold;
+} 
+.text p:nth-child(2){
+	text-align: center;
+	font-size: 1.5em;
+}
+.works div img{
+	margin-left: 2%;
+}
+
+.works h3{
+	font-weight: bold;
+}
+.circle{
+	border-radius: 100%;
+	padding: 20px;
+	width: 30%;
+    background-color:#BFBCBC; 
+    float: left;
+}
+.c_p{
+	float: left;
+	color:red;
+	width: 65%;
+	margin-left: 2%;
+}
+.w_p{
+	text-align: center;
+	color:red;
+	padding-top: 7px;
+}
+.w_p2{
+	color:red;
+	padding-top: 7px;
+}
+.fot1{
+	font-weight: bold;
+}
+.form input {
+margin-bottom: 2%;
+background-color: #d1d1d1;
+border:none;
+}
+textarea{
+	background-color: #d1d1d1;
+}
+.footer{
+	background-color: #1e1e1e;
+	height: 150px;
+	color:grey;
+	margin-top: 3%;
+}
